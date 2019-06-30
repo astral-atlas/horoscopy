@@ -1,6 +1,6 @@
 export const spite = {
   name: 'The Spiteful Stars',
-  image: '/images/stars/spite.svg',
+  image: './images/stars/spite.svg',
   qualities: 'Resilient, Enduring, Vengence',
   stars: 'First Dawn\'s Kiss, Mooncrest, Loathsome Boggart, Unglich Fezzleton, Whoreson Prime',
   description: [
@@ -12,19 +12,19 @@ export const spite = {
 
 export const grey = {
   name: 'Grey Space',
-  image: '/images/stars/grey-space.svg',
+  image: './images/stars/grey-space.svg',
   qualities: 'Ancient, Origins, Respect'
 };
 
 export const inevitable = {
   name: 'The Inevitable',
-  image: '/images/stars/inevitable.svg',
+  image: './images/stars/inevitable.svg',
   qualities: 'Knowlege, Time, Enduring'
 };
 
 export const transmuted = {
   name: 'The Transmuted Stars',
-  image: '/images/stars/transmuted.svg',
+  image: './images/stars/transmuted.svg',
   qualities: 'Changing, Flexible, Mysterious'
 };
 
