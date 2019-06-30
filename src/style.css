@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.horoscopy {
+  width: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.star-background {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  background-size: cover;
+  transition: opacity 10s;
+  background-color: black;
+}
+
+h1, h2, h3, p, em {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+h2 {
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+
+.title {
+  z-index: 1;
+  font-size: 64px;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.star-sign {
+  border-radius: 5px;
+  border: none;
+  background: rgba(0,0,0,0.5);
+  width: 530px;
+  margin: 50px;
+  padding: 25px;
+  justify-items: flex-start;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.star-sign-qualities {
+
+}
+
+.star-sign-container {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  width: 100%;
+}
