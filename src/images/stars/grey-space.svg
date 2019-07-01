@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,11 +81,11 @@
        transform="matrix(0.70677455,0.70743886,-0.70677455,0.70743886,0,0)" />
     <rect
        id="rect10-56-9-0-2"
-       width="8.9303646"
-       height="8.9303646"
-       x="226.81529"
-       y="178.41161"
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#fffff7;stroke-width:0.27626905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       width="4.5328217"
+       height="4.5328217"
+       x="229.01407"
+       y="180.61038"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#fffff7;stroke-width:0.140227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        transform="matrix(0.70677455,0.70743886,-0.70677455,0.70743886,0,0)" />
     <circle
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#fffff4;stroke-width:0.52916664;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52916666, 3.17499996;stroke-dashoffset:0;stroke-opacity:1"
