@@ -81,7 +81,21 @@ export const hastur = {
   stars: 'Hastur',
 }
 
+export const arcus = {
+  name: 'Clara Arcus - The Dawning Light',
+  qualities: 'Temperamental, Vibrant, Creative',
+  image: './images/stars/arcus.svg',
+  description: [
+    'A single point of light that throughout the year as the heavens move and shift displays a variety of brilliant colours, Clara Arcus is believed to be some kind of great spell, contained and channeled into bright light rather than its own destructive potential.',
+    'The myth goes that an ancient wizard, Terminus Ultra gazed upon the stars, and through her work discovered a great and terrible source of magic in the cosmos.',
+    'She disappeared one day, but ever since that star has remained locked in place within the night sky, no longer wandering as it did.',
+    'Some say she went to harness it, while others claim she is locked in eternal conflict with its creator.'
+  ],
+  stars: 'Clara Arcus',
+}
+
 export const starSigns = [
+  arcus,
   spite,
   inevitable,
   grey,
