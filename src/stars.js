@@ -94,8 +94,48 @@ export const arcus = {
   stars: 'Clara Arcus',
 }
 
+export const chicken = {
+  name: 'The Great Running Chicken',
+  qualities: 'Destiny, Adventure, Fate',
+  image: './images/stars/chicken.svg',
+  description: [
+    'Through the nebula and star-path, the Great Chicken runs.',
+    'Distinctive in the sky, it is ever changing: always in a different locations, barreling though evermore',
+    'Symbolizing the great journey for many an adventurer, the spirit of the Running Chicken lives in all that venture out their front door.'
+  ],
+  stars: 'Pekpoint, Great Roast, IIV Polrus Monn, Tendoria',
+};
+
+export const magician = {
+  name: 'The Magician',
+  qualities: 'Fooled, Tricked, Mustachioed',
+  image: './images/stars/magician.svg',
+  description: [
+    'Those who bear the sign of the magician, already a rare sight, are bestowed upon a baffling and unusual curse',
+    'A magnificent moustache, of significant twist, is destined to blossom upon their face.',
+    'None of the magic in the world has been able to reverse this semi-divine prank.',
+    'So far, at least'
+  ],
+  stars: 'The Pledge, The Turn, The Prestige',
+};
+
+export const sevenSystem = {
+  name: 'The Seven System',
+  qualities: 'Sorcery, Torment, Magic',
+  image: './images/stars/seven.svg',
+  description: [
+    'Seven Stars mark the Seven Dooms visited upon a poor, chosen soul.',
+    'Powerful magicks are destined to flow just as easily as the torment that will follow their life.',
+    'This star\'s visitation is hauntingly aligned with that of the infernal planes.'
+  ],
+  stars: 'Alpha, Beta, Gamma, Delta...',
+};
+
 export const starSigns = [
+  chicken,
   arcus,
+  sevenSystem,
+  magician,
   spite,
   inevitable,
   grey,
