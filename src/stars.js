@@ -131,7 +131,20 @@ export const sevenSystem = {
   stars: 'Alpha, Beta, Gamma, Delta...',
 };
 
+export const auriga = {
+  name: 'The Auriga Constellation',
+  qualities: 'Home, Family, Responsibility',
+  image: './images/stars/auriga.svg',
+  description: [
+    'The stars that make their way into the Auriga Constellation represent more than blood relations to those that bear their sign.',
+    'The bond between those lost together, those that find their home amongst their companions, the friendship that surpasses obligation;',
+    'The Auriga Cluster is the spark of true family, and those that carry it\'s sign with their birth shall ever be reminded of it\'s truths.'
+  ],
+  stars: 'Hearth\'s End, Stoker, Orphan\'s Rest, Bondways, Tigiruth\'s Lost Moon'
+}
+
 export const starSigns = [
+  auriga,
   chicken,
   arcus,
   sevenSystem,
