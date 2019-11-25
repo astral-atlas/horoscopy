@@ -143,11 +143,22 @@ export const auriga = {
   stars: 'Hearth\'s End, Stoker, Orphan\'s Rest, Bondways, Tigiruth\'s Lost Moon'
 }
 
+export const hex = {
+  name: 'The Hex',
+  qualities: 'Tranquility, Peace, Patience',
+  image: './images/stars/hex.svg',
+  description: [
+    'The Hex represented the perfect balance of the self.',
+  ],
+  stars: 'Hex Prime'
+}
+
 export const starSigns = [
   auriga,
   chicken,
   arcus,
   sevenSystem,
+  hex,
   magician,
   spite,
   inevitable,
